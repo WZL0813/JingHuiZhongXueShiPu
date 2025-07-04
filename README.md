@@ -1,2 +1,2 @@
-# JingHuiShiPu
-wzl0813.github.io/JingHuiShiPu
+# JingHuiZhongXueShiPu
+wzl0813.github.io/JingHuiZhongXueShiPu
