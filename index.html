@@ -533,6 +533,12 @@
                 // 如果是微信文章，显示提示和直接链接
                 frame.srcdoc = `
                     <style>
+                @media (max-width: 1200px) {
+                        .video-preview iframe {
+                            width: 100%;
+                            height: calc(100vw * 0.5);
+                        }
+                    }
                         body {
                             font-family: Arial, sans-serif;
                             display: flex;
@@ -1099,6 +1105,7 @@ function initializeModalEvents() {
     </script>
 </body>
 </html>
+
 
 
 
